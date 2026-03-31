@@ -6,7 +6,7 @@ A simple and interactive **Color Picker Web App** that allows users to select co
 
 ## 🌐 Live Demo
 
-Check out the live version of the app here: [Live App]([https://your-deployed-link.com](https://tanv404.github.io/Color-Picker/))
+Check out the live version of the app here: [Color Picker Live App](https://tanv404.github.io/Color-Picker/)
 
 --- 
 
@@ -32,13 +32,14 @@ Check out the live version of the app here: [Live App]([https://your-deployed-li
 ---
 
 ## 📂 Project Structure
-color-picker/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-│── /screenshots
 
+color-picker/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── screenshots/
+    ├── ColorPicker.png
 
 ---
 
