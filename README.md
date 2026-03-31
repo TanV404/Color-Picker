@@ -6,7 +6,7 @@ A simple and interactive **Color Picker Web App** that allows users to select co
 
 ## 🌐 Live Demo
 
-Check out the live version of the app here: [Color Picker Live App](https://tanv404.github.io/Color-Picker/)
+Check out the live version of the app here: [Live App](https://tanv404.github.io/Color-Picker/)
 
 --- 
 
@@ -19,8 +19,6 @@ Check out the live version of the app here: [Color Picker Live App](https://tanv
   - RGB value
   - HSL value
   - Color name
-- ⚡ Fast and responsive UI
-- 💡 Beginner-friendly project
 
 ---
 
@@ -52,5 +50,5 @@ color-picker/
 
 ---
 
-## Screenshots
+## Screenshot
 ![Color Picker](screenshots/ColorPicker.png) 
